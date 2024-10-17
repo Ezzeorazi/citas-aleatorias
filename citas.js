@@ -38,5 +38,9 @@ let citas = [
     {
       'autor': 'Mark Twain',
       'texto': 'Los dos días más importantes de tu vida son el día que naciste y el día que descubres por qué.'
+    },
+    {
+      'autor': 'Creo que fue Ghandi',
+      'texto': 'El ojo por ojo hace que el mundo se quede ciego.'
     }
   ];
